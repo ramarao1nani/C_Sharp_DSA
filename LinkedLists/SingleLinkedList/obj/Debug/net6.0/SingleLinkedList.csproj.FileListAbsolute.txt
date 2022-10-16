@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.exe
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.deps.json
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.runtimeconfig.json
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\refint\SingleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\LinkedLists\SingleLinkedList\obj\Debug\net6.0\ref\SingleLinkedList.dll

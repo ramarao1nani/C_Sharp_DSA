@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.exe
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.deps.json
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.runtimeconfig.json
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\refint\DoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\LinkedLists\DoubleLinkedList\obj\Debug\net6.0\ref\DoubleLinkedList.dll
