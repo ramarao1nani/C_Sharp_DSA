@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\bin\Debug\net6.0\CircularDoubleLinkedList.exe
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\bin\Debug\net6.0\CircularDoubleLinkedList.deps.json
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\bin\Debug\net6.0\CircularDoubleLinkedList.runtimeconfig.json
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\bin\Debug\net6.0\CircularDoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\bin\Debug\net6.0\CircularDoubleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\refint\CircularDoubleLinkedList.dll
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.pdb
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\CircularDoubleLinkedList.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\LinkedLists\CircularDoubleLinkedList\obj\Debug\net6.0\ref\CircularDoubleLinkedList.dll
