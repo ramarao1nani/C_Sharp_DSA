@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Stacks\Stack\bin\Debug\net6.0\Stack.exe
+D:\git\C_Sharp_DSA\Stacks\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\git\C_Sharp_DSA\Stacks\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\git\C_Sharp_DSA\Stacks\Stack\bin\Debug\net6.0\Stack.dll
+D:\git\C_Sharp_DSA\Stacks\Stack\bin\Debug\net6.0\Stack.pdb
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.dll
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.pdb
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Stacks\Stack\obj\Debug\net6.0\ref\Stack.dll
