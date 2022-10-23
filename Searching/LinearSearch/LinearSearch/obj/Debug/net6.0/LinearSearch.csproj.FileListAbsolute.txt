@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\refint\LinearSearch.dll
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Searching\LinearSearch\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll

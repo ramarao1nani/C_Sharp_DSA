@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Searching\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+D:\git\C_Sharp_DSA\Searching\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+D:\git\C_Sharp_DSA\Searching\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+D:\git\C_Sharp_DSA\Searching\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+D:\git\C_Sharp_DSA\Searching\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Searching\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll

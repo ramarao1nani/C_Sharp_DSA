@@ -1,0 +1,53 @@
+Sorting:
+	Selection Sort
+	Bubble Sort
+	Insertion Sort
+	Merge Sort
+	Quick Sort
+Searching:
+	Linear Searching
+	Binary Searching
+	Interpolation Searching
+LinkedList
+	SingleLinkedList
+	DoubleLinkedList
+	CircularSingleLinkedList
+	CircularDoublyLinkedList
+		Operations
+			Insert a new node at the start of the Linked List
+			Insert a new node at the end of the Linked List
+			Insert a new node at a given position in the Linked List
+			Delete the first node of the Linked List
+			Delete the last node of the Linked List
+			Delete a node at the given position in the Linked List
+			Count nodes in the Linked List
+			Reverse the Linked List
+			Swap node values of a Linked List
+Arrays
+	crud operations
+Stacks
+	Stack Using Array(push,pop,isempty,peek)
+	Stack Using LinkedList
+Queues
+	Queue Using Array(EnQueue,DeQueue)
+	Queue Using LinkedList
+Graphs
+	Adjacency Matrix
+	BreadthFirstSearch
+	DeapthFirstSearch
+Trees
+	BinarySearchTree
+	AVLTree(Insertions and Rotations)
+Algorithms
+	PascalTriangle
+	Infix&Prefix&Postfix
+	TowersOfHanoi
+	KnapSack(Greedy Method)
+	Prims and Kruskals
+	Dijkstra&BellmanFordAlgorithm
+	TravellingSalesManProblem
+	GraphColoringProblem
+	NQueensProblem
+	Dynamic vs Greedy vs BruteForce
+Hashing Technique
+	
