@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\bin\Debug\net6.0\InterpolationSearch.exe
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\bin\Debug\net6.0\InterpolationSearch.deps.json
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\bin\Debug\net6.0\InterpolationSearch.runtimeconfig.json
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\bin\Debug\net6.0\InterpolationSearch.dll
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\bin\Debug\net6.0\InterpolationSearch.pdb
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.dll
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\refint\InterpolationSearch.dll
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.pdb
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\InterpolationSearch.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Searching\InterpolationSearch\obj\Debug\net6.0\ref\InterpolationSearch.dll

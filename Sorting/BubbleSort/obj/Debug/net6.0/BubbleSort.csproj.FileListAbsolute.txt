@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Sorting\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll

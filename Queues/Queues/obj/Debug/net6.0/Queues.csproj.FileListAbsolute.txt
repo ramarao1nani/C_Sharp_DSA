@@ -1,0 +1,15 @@
+D:\git\C_Sharp_DSA\Queues\Queues\bin\Debug\net6.0\Queues.exe
+D:\git\C_Sharp_DSA\Queues\Queues\bin\Debug\net6.0\Queues.deps.json
+D:\git\C_Sharp_DSA\Queues\Queues\bin\Debug\net6.0\Queues.runtimeconfig.json
+D:\git\C_Sharp_DSA\Queues\Queues\bin\Debug\net6.0\Queues.dll
+D:\git\C_Sharp_DSA\Queues\Queues\bin\Debug\net6.0\Queues.pdb
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.csproj.AssemblyReference.cache
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.AssemblyInfoInputs.cache
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.AssemblyInfo.cs
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.csproj.CoreCompileInputs.cache
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.dll
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\refint\Queues.dll
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.pdb
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\Queues.genruntimeconfig.cache
+D:\git\C_Sharp_DSA\Queues\Queues\obj\Debug\net6.0\ref\Queues.dll
